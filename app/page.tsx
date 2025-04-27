@@ -319,7 +319,7 @@ export default function Home() {
             <Button
               asChild
               variant="outline"
-              className="border-white text-white hover:bg-blue-800 min-w-[180px] h-12 text-lg"
+              className="border-white text-black hover:bg-blue-800 min-w-[180px] h-12 text-lg"
             >
               <Link href="/katalog-opreme">Katalog Opreme</Link>
             </Button>
